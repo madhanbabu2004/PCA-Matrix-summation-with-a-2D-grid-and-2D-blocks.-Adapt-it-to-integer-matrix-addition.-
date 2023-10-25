@@ -210,6 +210,8 @@ return (0);
 ## Output:
 
 ![output](./a.png)
+![output](./b.png)
+![output](./c.png)
 
 
 
